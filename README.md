@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Machine Learning and Artificial Intelligence enthusiast
 🌱 I’m currently learning Reinforcement learning and MySQL<br>💬 Ask me about NLP and Computer Vision<br>📫 How to reach me rawoorkar30@gmail.com
 
 
