@@ -1,7 +1,6 @@
 # 💫 About Me: Machine Learning and Artificial Intelligence enthusiast
 🌱 I’m currently learning Reinforcement learning and MySQL<br>💬 Ask me about NLP and Computer Vision<br>📫 How to reach me rawoorkar30@gmail.com
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praj._.waL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-rawoorkar-157a24250/)
 
@@ -47,11 +46,18 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deadheaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deadheaven&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deadheaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=deadheaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadheaven&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadheaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" height="180" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deadheaven&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=deadheaven&icon=5&color=6" alt="Visitor Count" />
+  </a>
+</p>
