@@ -1,5 +1,5 @@
 # 💫 About Me: Machine Learning and Artificial Intelligence enthusiast
-🌱 I’m currently learning Reinforcement learning and MySQL<br>💬 Ask me about NLP and Computer Vision<br>📫 How to reach me rawoorkar30@gmail.com
+🌱 I’m currently learning Reinforcement learning and World models<br>💬 Ask me about NLP and Computer Vision<br>📫 How to reach me rawoorkar30@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praj._.waL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-rawoorkar-157a24250/)
